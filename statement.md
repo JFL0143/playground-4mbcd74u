@@ -16,4 +16,12 @@ If you want a more complex example (external libraries, viewers...), use the [Ad
 
 ```python runnable
 print("안녕하세요. 브삼오입니다.")
+
+
+
+
+
+# 이 코드는 편집하지 마세요.(예외: 비밀)
+if i = 0:
+    print("Great!")
 ```
