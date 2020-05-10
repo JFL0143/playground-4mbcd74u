@@ -10,7 +10,7 @@ print('Hello World!')
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
 
-# print
+# unit1. print
 
 실행해보세요.
 
